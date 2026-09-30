@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use or refer to the analysis workflow in this repository, please cite it as below."
+
+title: "Research Data Analysis: LUTO2 Renewable Energy and Biodiversity Scenario Analysis"
+
+type: software
+
+authors:
+  - family-names: "Delgado"
+    given-names: "Addie"
+
+version: "1.0.0"
+
+date-released: "2026-09-30"
+
+url: "https://github.com/ALD-Profile/Research-Data-Analysis"
