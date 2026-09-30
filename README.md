@@ -121,7 +121,7 @@ Citation
 If you use or refer to the analysis workflow in this repository, please cite the archived version of the repository.
 
 Suggested citation format:
-Delgado, A. (2026). LUTO2 renewable energy and biodiversity scenario analysis: Data processing, validation and analysis notebooks (Version 1.0.0) [Computer software]. GitHub [repository release URL]
+Delgado, A. (2026). Research data analysis: LUTO2 renewable energy and biodiversity scenario analysis (Version 1.0.0) [Computer software]. GitHub. https://github.com/ALD-Profile/Research-Data-Analysis
 
 
 
