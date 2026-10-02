@@ -86,6 +86,9 @@ The original LUTO2 outputs were retained unchanged, while processed datasets pre
 
 The notebooks generate processed datasets, validation records and figure ready summaries used in the study. These outputs support analysis of renewable generation, modeled land allocation, SNES and ECNES exposure, scenario sensitivity and land-use transition costs.
 
+## Code development
+
+AI assisted code development: ChatGPT codex and Claude was used to assist with code structure and debugging, used to organize LUTO2 model outputs. All code was reviewed, modified and tested by the author before use. The scripts do not generate or alter LUTO2 optimization results.
 
 ## Software
 
